@@ -14,7 +14,7 @@ This paper addresses the problem of resource allocation for systems in which a p
 
 We have decided to relase this code although it is in no shape to do so. This is due to several requests we have received since the first publication of this article. It is provided as is, without any documentation or support. 
 
-The overlay code should be located in the root folder and `mpi/`. If I recall correctly, we have used the [bcMPI](www.bluecollarcomputing.org/applications/bcMPI/index.shtml) toolbox and [Open MPI](https://www.open-mpi.org) to run it. The start script is `mpi/manager.m`. The underlay code should be easier to run and is located in `underlay/`. In addition, the [CVX](http://cvxr.com/cvx) toolbox is required, possibly with a professional license that is free of charge for [academic users](http://cvxr.com/cvx/academic/). Good luck!
+The overlay code should be located in the root folder and `mpi/`. If I recall correctly, we have used the [bcMPI](https://www.google.de/search?q=%22bcmpi%22) toolbox and [Open MPI](https://www.open-mpi.org) to run it. The start script is `mpi/manager.m`. The underlay code should be easier to run and is located in `underlay/`. In addition, the [CVX](http://cvxr.com/cvx) toolbox is required, possibly with a professional license that is free of charge for [academic users](http://cvxr.com/cvx/academic/). Good luck!
 
 
 ## Acknowledgements
